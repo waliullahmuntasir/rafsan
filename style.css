@@ -1,0 +1,62 @@
+.first-span {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+  color: orange;
+  display: inline-block;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+  font-size: 30px;
+  display: inline-block;
+  padding: 10px;
+}
+
+nav {
+  display: flex;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+ul li {
+  list-style-type: none;
+  float: right;
+}
+ul li a {
+  color: black;
+  text-decoration: none;
+  padding: 12px 16px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+
+.yellow {
+  background-color: yellow;
+  background-size: cover;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+  font-size: 29px;
+}
+.mujgfjijgjbi {
+  color: skyblue;
+}
+.lklk {
+  color: blue;
+}
+.muntasir {
+  width: 400px;
+}
+.boath {
+  display: flex;
+  justify-content: space-between;
+}
