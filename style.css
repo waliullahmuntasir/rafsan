@@ -70,7 +70,7 @@ body {
   text-align: center;
 }
 .thiredcolour {
-  background-color: #fff8f3;
+  text-align: center;
 }
 .about-me {
   text-align: center;
@@ -78,7 +78,6 @@ body {
 .about-info-container {
   display: flex;
   justify-content: space-around;
-  background-color: lightskyblue;
 }
 .about-name {
   color: blue;
@@ -87,4 +86,7 @@ body {
 .about-about {
   color: red;
   font-size: 20px;
+}
+.thiredcolour {
+  background-color: #fff8f3;
 }
