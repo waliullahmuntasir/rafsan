@@ -24,14 +24,14 @@ ul li a {
 .waliullah {
   display: flex;
   justify-content: space-between;
-  
+
   align-items: center;
 }
 .tgtugbjmbm {
   color: lightcoral;
 }
 .rumi {
-  color: skyblue;
+  color: lightslategray;
 }
 .firstparent {
   display: flex;
@@ -49,10 +49,42 @@ ul li a {
 .firstcolour {
   background-color: lightgreen;
 }
-body{
-    padding: 0 ;
-    margin: 0 ;
+body {
+  padding: 0;
+  margin: 0;
 }
-.what i do{
-    text-align: center;
+.jbkmkmdogkm {
+  text-align: center;
+  margin: 20px;
+}
+.icons {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
+.proggraming-language {
+  background-color: #fff8f3;
+  text-align: center;
+}
+.hdkxkh1 {
+  text-align: center;
+}
+.thiredcolour {
+  background-color: #fff8f3;
+}
+.about-me {
+  text-align: center;
+}
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: lightskyblue;
+}
+.about-name {
+  color: blue;
+  font-size: 20px;
+}
+.about-about {
+  color: red;
+  font-size: 20px;
 }
