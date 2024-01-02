@@ -93,3 +93,29 @@ body {
 .about-me {
   padding: 40px;
 }
+.ronaldo {
+  margin-left: 10px;
+}
+.top-gdiv {
+  display: flex;
+  justify-content: space-between;
+}
+.first-left {
+  font-size: 25px;
+}
+.forth-section {
+  background-color: lightcyan;
+}
+.secondbtn {
+  margin: 20px;
+  width: 200px;
+  height: 55px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+}
+.secondbtn a {
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
