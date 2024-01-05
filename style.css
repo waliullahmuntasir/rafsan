@@ -1,121 +1,128 @@
 * {
-  font-family: "Open Sans", sans-serif;
   text-transform: capitalize;
+  font-family: "Roboto", sans-serif;
 }
-.MUNTASIR {
-  color: orange;
+.firstspan {
+  color: #fd6e0a;
+  font-size: 40px;
+  display: inline-block;
+}
+.firsth1 {
+  font-size: 40px;
+  display: inline-block;
+}
+.first-btn {
+  background-color: #fd6e0a;
+  width: 140px;
+  height: 45px;
+  border-radius: 6px;
+  font-size: 20px;
+  color: white;
 }
 ul {
   padding: 0;
   margin: 0;
+
   overflow: hidden;
   display: inline-block;
 }
 ul li {
-  list-style-type: none;
-  float: right;
-}
-ul li a {
   color: black;
-  text-decoration: none;
+  float: right;
+  list-style-type: none;
   padding: 12px 16px;
-  display: inline-block;
-}
-.waliullah {
-  display: flex;
-  justify-content: space-between;
-
-  align-items: center;
-}
-.tgtugbjmbm {
-  color: lightcoral;
-}
-.rumi {
-  color: lightslategray;
+  display: block;
 }
 .firstparent {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
-.firstbtn {
-  background: orange;
-  width: 150px;
+.firsth2 {
+  font-size: 47px;
+}
+.secondbtn {
+  background-color: #fd6e0a;
+  width: 140px;
+  height: 50px;
+  border-radius: 6px;
+  font-size: 16px;
+  color: white;
+}
+.thirdbtn {
+  background-color: white;
+  width: 120px;
   height: 45px;
-  border-radius: 10px;
-}
-.JHIGJIS {
-  font-size: 40px;
-}
-.firstcolour {
-  background-color: lightgreen;
-}
-body {
-  padding: 0;
-  margin: 0;
-}
-.jbkmkmdogkm {
-  text-align: center;
+  border-radius: 6px;
+  font-size: 16px;
+  color: #fd6e0a;
   margin: 20px;
 }
-.icons {
-  display: flex;
-  justify-content: space-around;
-  gap: 20px;
-}
-.proggraming-language {
-  background-color: #fff8f3;
-  text-align: center;
-}
-.hdkxkh1 {
-  text-align: center;
-}
-.thiredcolour {
-  text-align: center;
-}
-.about-me {
-  text-align: center;
-}
-.about-info-container {
-  display: flex;
-  justify-content: space-around;
-}
-.about-name {
-  color: blue;
-  font-size: 20px;
-}
-.about-about {
-  color: red;
-  font-size: 20px;
-}
-.thiredcolour {
-  background-color: #fff8f3;
-}
-.about-me {
-  padding: 40px;
-}
-.ronaldo {
-  margin-left: 10px;
-}
-.top-gdiv {
+.secondparent {
   display: flex;
   justify-content: space-between;
 }
-.first-left {
-  font-size: 25px;
+
+.jhghbjhj {
+  text-align: center;
+  padding: 100px;
+  background-color: #fff8f3;
+  margin: 100px;
 }
-.forth-section {
-  background-color: lightcyan;
+.section-title {
+  text-align: center;
 }
-.secondbtn {
-  margin: 20px;
-  width: 200px;
-  height: 55px;
-  border-radius: 20px;
-  background-color: black;
-  color: white;
+.section-despriton {
+  text-align: center;
 }
-.secondbtn a {
-  color: white;
-  text-decoration: none;
+.ghfhgjfj {
+  background-color: #fff8f3;
+  padding: 100px;
+  margin: 100px;
+}
+.ronaldo {
+  display: flex;
+  justify-content: space-between;
+}
+.about-title {
+  color: blue;
+}
+.about-about {
+  color: red;
+}
+.center {
+  text-align: center;
+  padding: 40px;
+}
+.skill-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  margin: 50px;
+  gap: 30px;
+}
+.skill {
+  background-color: #fff8f3;
+  text-align: center;
+}
+.idkh1 {
+  text-align: center;
+  font-size: 35px;
+}
+.last-parent {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  padding: 50px;
+  gap: 80px;
+}
+.lestright {
+  font-size: 24px;
+}
+.lastleft {
+  font-size: 24px;
+}
+.lastp {
   font-size: 17px;
+  color: gray;
 }
