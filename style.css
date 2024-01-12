@@ -24,7 +24,8 @@ ul {
   margin: 0;
 
   overflow: hidden;
-  display: inline-block;
+  display: flex;
+  align-items: center;
 }
 ul li {
   color: black;
@@ -37,6 +38,7 @@ ul li {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 50px 0px;
 }
 .firsth2 {
   font-size: 47px;
@@ -61,6 +63,9 @@ ul li {
 .secondparent {
   display: flex;
   justify-content: space-between;
+  background-image: url("header_bg.png");
+  background-repeat: no-repeat;
+  background-position: bottom right;
 }
 
 .jhghbjhj {
@@ -74,21 +79,24 @@ ul li {
 }
 .section-despriton {
   text-align: center;
+  color: gray;
+  font-size: 20px;
 }
 .ghfhgjfj {
   background-color: #fff8f3;
   padding: 100px;
   margin: 100px;
+  text-align: center;
 }
 .ronaldo {
   display: flex;
   justify-content: space-between;
 }
 .about-title {
-  color: blue;
+  color: gray;
 }
 .about-about {
-  color: red;
+  color: black;
 }
 .center {
   text-align: center;
@@ -98,12 +106,13 @@ ul li {
   display: flex;
   justify-content: space-around;
   padding: 50px;
-  margin: 50px;
   gap: 30px;
 }
 .skill {
   background-color: #fff8f3;
-  text-align: center;
+  box-shadow: 11px 10px 35px 6px rgba(235, 212, 212, 0.75);
+  -webkit-box-shadow: 11px 10px 35px 6px rgba(235, 212, 212, 0.75);
+  -moz-box-shadow: 11px 10px 35px 6px rgba(235, 212, 212, 0.75);
 }
 .idkh1 {
   text-align: center;
@@ -126,3 +135,52 @@ ul li {
   font-size: 17px;
   color: gray;
 }
+body {
+  padding: 0 150px;
+}
+body {
+  background-image: url("developer.png");
+  background-repeat: no-repeat;
+}
+.h4 {
+  color: gray;
+  font-size: 20px;
+}
+.skill-title {
+  font-size: 20px;
+  margin: 20px;
+}
+.skill-description {
+  color: gray;
+  margin: 20px;
+}
+.nodeee {
+  margin: 20px;
+}
+.p {
+  color: gray;
+}
+.lost-h1 {
+  font-size: 30px;
+}
+.last-prent {
+  display: flex;
+  justify-content: space-between;
+}
+textarea {
+  margin-right: 30px;
+  color: gray;
+  background-color: #fff8f3;
+  border-radius: 10px;
+  border: 10px solid #fff8f3;
+  color: gray;
+}
+.hi-hello {
+  width: 300px;
+  height: 40px;
+  background-color: #fff8f3;
+  border-radius: 10px;
+  border: 10px solid #fff8f3;
+  color: gray;
+}
+
