@@ -91,6 +91,7 @@ ul li {
 .ronaldo {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 .about-title {
   color: gray;
@@ -166,6 +167,7 @@ body {
 .last-prent {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 textarea {
   margin-right: 30px;
@@ -182,5 +184,56 @@ textarea {
   border-radius: 10px;
   border: 10px solid #fff8f3;
   color: gray;
+}
+.secondright img{
+  width: 500px;
+}
+
+@media screen and (max-width:576px) {
+  body {
+    padding: 0 0px;
+  }
+  body {
+    background-image: none;
+    
+    
+  }
+  .secondright img{
+    width: 200px;
+  }
+  .firsth2 {
+    font-size: 28px;
+  }
+  
+  .ghfhgjfj {
+    background-color: #fff8f3;
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+  }
+  .skill-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  .last-parent {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 50px;
+    gap: 80px;
+    flex-wrap: wrap;
+  }
+  
+  .eddvv{
+    display: none;
+  }
+  .ronaldo {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
 }
 
